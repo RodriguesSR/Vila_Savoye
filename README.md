@@ -18,9 +18,12 @@ O objetivo principal é oferecer uma ferramenta parametrizável, baseada em gram
 
 ### 📄 Artigos Relacionados
 
+## 📄 Artigos Relacionados
+
 Se você utilizar este código, por favor cite os artigos relacionados:
 
-> *(Insira aqui os títulos, DOI ou links dos artigos que deseja mencionar)*
+- [Artigo IADIS 2024](./Artigo%20IADIS%202024.pdf)
+- [Artigo 3D Modeling & BIM 2024](./Artigo_2024_3DModeling&BIM.pdf)
 
 ### 👩‍💻 Autoria
 
@@ -53,9 +56,12 @@ The main goal is to provide a parametric tool, based on shape grammar, to suppor
 
 ### 📄 Related Articles
 
+## 📄 Related Articles
+
 If you use this code, please cite the following related articles:
 
-> *(Insert here the titles, DOI or links to the articles you wish to mention)*
+- [IADIS 2024 Paper](./Artigo%20IADIS%202024.pdf)
+- [3D Modeling & BIM 2024 Paper](./Artigo_2024_3DModeling&BIM.pdf)
 
 ### 👩‍💻 Author
 
