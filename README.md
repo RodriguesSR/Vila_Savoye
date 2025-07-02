@@ -23,7 +23,7 @@ O objetivo principal é oferecer uma ferramenta parametrizável, baseada em gram
 Se você utilizar este código, por favor cite os artigos relacionados:
 
 - [Artigo IADIS 2024](./Artigo%20IADIS%202024.pdf)
-- [Artigo 3D Modeling & BIM 2024](./Artigo_2024_3DModeling&BIM.pdf) (ver a partir da página 279)
+- [Artigo 3D Modeling & BIM 2024](./Artigo_2024_3DModeling&BIM.pdf) (página 279-288)
 
 ### 👩‍💻 Autoria
 
@@ -61,7 +61,7 @@ The main goal is to provide a parametric tool, based on shape grammar, to suppor
 If you use this code, please cite the following related articles:
 
 - [IADIS 2024 Paper](./Artigo%20IADIS%202024.pdf)
-- [3D Modeling & BIM 2024 Paper](./Artigo_2024_3DModeling&BIM.pdf) (see from page 279)
+- [3D Modeling & BIM 2024 Paper](./Artigo_2024_3DModeling&BIM.pdf) (page 279-288)
 
 ### 👩‍💻 Author
 
@@ -71,6 +71,3 @@ Interdisciplinary researcher in the fields of technology, architecture, and heri
 ### 📜 License
 
 This project is licensed under the [CC BY-NC-SA 4.0](./LICENSE-EN.txt) – Attribution-NonCommercial-ShareAlike.
-
-Atualiza README com número da página do artigo
-
